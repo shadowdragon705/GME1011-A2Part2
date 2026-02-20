@@ -14,7 +14,8 @@ namespace A2_part_2_LelandL
 
         private float _peelX, _peelY;
         private Texture2D _peelTexture;
-        private int _speedBoost = 5;
+        private int _speedBoost = 3;
+        private Color _boostColor = Color.Yellow;
 
         public BananaPeel (float peelX, float peelY, int _speedBoost, Texture2D peelTexture)
         {
@@ -26,6 +27,8 @@ namespace A2_part_2_LelandL
         public float GetX() { return _peelX; }
         public float GetY() { return _peelY; }
         public int GetBoost() { return _speedBoost; }
+
+        public Color GetColor() { return _boostColor; }
 
         public void Draw(SpriteBatch spriteBatch)
         {

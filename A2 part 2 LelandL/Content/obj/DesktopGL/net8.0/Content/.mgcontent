@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/lelan/OneDrive/Desktop/GME Assignments/Semester 2/1011 (Wednesday)/A2 part 2 LelandL/A2 part 2 LelandL/Content/font.spritefont</File>
-    <File>C:/Users/lelan/OneDrive/Desktop/GME Assignments/Semester 2/1011 (Wednesday)/A2 part 2 LelandL/A2 part 2 LelandL/Content/shork.png</File>
-    <File>C:/Users/lelan/OneDrive/Desktop/GME Assignments/Semester 2/1011 (Wednesday)/A2 part 2 LelandL/A2 part 2 LelandL/Content/spr_amongUs.png</File>
+    <File>C:/Users/lelan/OneDrive/Desktop/GME Assignments/Semester 2/1011 (Wednesday)/A2 part 2 LelandL/GME1011-A2Part2/A2 part 2 LelandL/Content/font.spritefont</File>
+    <File>C:/Users/lelan/OneDrive/Desktop/GME Assignments/Semester 2/1011 (Wednesday)/A2 part 2 LelandL/GME1011-A2Part2/A2 part 2 LelandL/Content/shork.png</File>
+    <File>C:/Users/lelan/OneDrive/Desktop/GME Assignments/Semester 2/1011 (Wednesday)/A2 part 2 LelandL/GME1011-A2Part2/A2 part 2 LelandL/Content/spr_amongUs.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

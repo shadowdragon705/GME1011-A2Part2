@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A2 part 2 LelandL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c03ab9bae5ba2f3764003fa2addad7c859155ac3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97c1d89614beac6912f7aaf330a9f12a725337b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("A2 part 2 LelandL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A2 part 2 LelandL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

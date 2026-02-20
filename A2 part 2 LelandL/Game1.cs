@@ -39,8 +39,8 @@ namespace A2_part_2_LelandL
             _playerSprite = Content.Load<Texture2D>("spr_amongUs");
             _font = Content.Load<SpriteFont>("font");
 
-            _player = new Player(0, 0, 5, _playerSprite);
             _bananaPeel = new BananaPeel(200, 200, 5, _peelSprite);
+            _player = new Player(0, 0, 5, _playerSprite, _bananaPeel);
 
             // TODO: use this.Content to load your game content here
         }

@@ -15,15 +15,18 @@ namespace A2_part_2_LelandL
         private float _playerX, _playerY;
         private int _playerSpeed, _speedBoost;
         private Texture2D _playerSprite;
+        private Color _playerColor = Color.White;
+        private BananaPeel _peel;
 
         private int _timer;
 
-        public Player(float playerX, float playerY, int playerSpeed, Texture2D playerSprite)
+        public Player(float playerX, float playerY, int playerSpeed, Texture2D playerSprite, BananaPeel peel)
         {
             _playerX = playerX;
             _playerY = playerY;
             _playerSpeed = playerSpeed;
             _playerSprite = playerSprite;
+            _peel = peel;
         }
 
         public float GetX() { return _playerX; }
@@ -59,6 +62,7 @@ namespace A2_part_2_LelandL
             {
 
                 _timer--;
+                _playerColor = _peel.GetColor();
                 _playerSpeed += _speedBoost;
 
             }
@@ -66,13 +70,14 @@ namespace A2_part_2_LelandL
             if (_timer <= 0 && _playerSpeed > 5)
             {
 
+                _playerColor = Color.White;
                 _playerSpeed -= _speedBoost;
 
             }
 
-            if (_playerSpeed > 20)
+            if (_playerSpeed > 15)
             {
-                _playerSpeed = 20;
+                _playerSpeed = 15;
             }
 
         }
@@ -81,7 +86,7 @@ namespace A2_part_2_LelandL
         {
             spriteBatch.Begin();
 
-            spriteBatch.Draw(_playerSprite, new Vector2(_playerX, _playerY), null, Color.White, 0, new Vector2(0, 0), 1, SpriteEffects.None, 0);
+            spriteBatch.Draw(_playerSprite, new Vector2(_playerX, _playerY), null, _playerColor, 0, new Vector2(0, 0), 1, SpriteEffects.None, 0);
 
             spriteBatch.End();
 
