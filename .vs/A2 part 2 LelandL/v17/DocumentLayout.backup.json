@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|c:\\users\\lelan\\onedrive\\desktop\\gme assignments\\semester 2\\1011 (wednesday)\\a2 part 2 lelandl\\a2 part 2 lelandl\\bananapeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|solutionrelative:a2 part 2 lelandl\\bananapeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|c:\\users\\lelan\\onedrive\\desktop\\gme assignments\\semester 2\\1011 (wednesday)\\a2 part 2 lelandl\\a2 part 2 lelandl\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|solutionrelative:a2 part 2 lelandl\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|c:\\users\\lelan\\onedrive\\desktop\\gme assignments\\semester 2\\1011 (wednesday)\\a2 part 2 lelandl\\a2 part 2 lelandl\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|solutionrelative:a2 part 2 lelandl\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BananaPeel.cs",
+              "DocumentMoniker": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\A2 part 2 LelandL\\BananaPeel.cs",
+              "RelativeDocumentMoniker": "A2 part 2 LelandL\\BananaPeel.cs",
+              "ToolTip": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\A2 part 2 LelandL\\BananaPeel.cs",
+              "RelativeToolTip": "A2 part 2 LelandL\\BananaPeel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:12:08.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\A2 part 2 LelandL\\Player.cs",
+              "RelativeDocumentMoniker": "A2 part 2 LelandL\\Player.cs",
+              "ToolTip": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\A2 part 2 LelandL\\Player.cs",
+              "RelativeToolTip": "A2 part 2 LelandL\\Player.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFMAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:45:15.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\A2 part 2 LelandL\\Game1.cs",
+              "RelativeDocumentMoniker": "A2 part 2 LelandL\\Game1.cs",
+              "ToolTip": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\A2 part 2 LelandL\\Game1.cs",
+              "RelativeToolTip": "A2 part 2 LelandL\\Game1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:26:11.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
