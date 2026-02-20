@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\GME1011-A2Part2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|c:\\users\\lelan\\onedrive\\desktop\\gme assignments\\semester 2\\1011 (wednesday)\\a2 part 2 lelandl\\gme1011-a2part2\\a2 part 2 lelandl\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|solutionrelative:a2 part 2 lelandl\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|c:\\users\\lelan\\onedrive\\desktop\\gme assignments\\semester 2\\1011 (wednesday)\\a2 part 2 lelandl\\gme1011-a2part2\\a2 part 2 lelandl\\bananapeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|solutionrelative:a2 part 2 lelandl\\bananapeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|c:\\users\\lelan\\onedrive\\desktop\\gme assignments\\semester 2\\1011 (wednesday)\\a2 part 2 lelandl\\gme1011-a2part2\\a2 part 2 lelandl\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|solutionrelative:a2 part 2 lelandl\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|c:\\users\\lelan\\onedrive\\desktop\\gme assignments\\semester 2\\1011 (wednesday)\\a2 part 2 lelandl\\gme1011-a2part2\\a2 part 2 lelandl\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|solutionrelative:a2 part 2 lelandl\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE1B71E3-A44A-452B-A3FF-C6E342FB0687}|A2 part 2 LelandL\\A2 part 2 LelandL.csproj|c:\\users\\lelan\\onedrive\\desktop\\gme assignments\\semester 2\\1011 (wednesday)\\a2 part 2 lelandl\\gme1011-a2part2\\a2 part 2 lelandl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,44 +50,43 @@
               "RelativeToolTip": "A2 part 2 LelandL\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:27:49.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:27:49.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BananaPeel.cs",
               "DocumentMoniker": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\GME1011-A2Part2\\A2 part 2 LelandL\\BananaPeel.cs",
               "RelativeDocumentMoniker": "A2 part 2 LelandL\\BananaPeel.cs",
               "ToolTip": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\GME1011-A2Part2\\A2 part 2 LelandL\\BananaPeel.cs",
               "RelativeToolTip": "A2 part 2 LelandL\\BananaPeel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T19:12:08.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\GME1011-A2Part2\\A2 part 2 LelandL\\Player.cs",
               "RelativeDocumentMoniker": "A2 part 2 LelandL\\Player.cs",
               "ToolTip": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\GME1011-A2Part2\\A2 part 2 LelandL\\Player.cs",
               "RelativeToolTip": "A2 part 2 LelandL\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswEgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T18:45:15.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\GME1011-A2Part2\\A2 part 2 LelandL\\Game1.cs",
               "RelativeDocumentMoniker": "A2 part 2 LelandL\\Game1.cs",
               "ToolTip": "C:\\Users\\lelan\\OneDrive\\Desktop\\GME Assignments\\Semester 2\\1011 (Wednesday)\\A2 part 2 LelandL\\GME1011-A2Part2\\A2 part 2 LelandL\\Game1.cs",
               "RelativeToolTip": "A2 part 2 LelandL\\Game1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T18:26:11.166Z",
               "EditorCaption": ""

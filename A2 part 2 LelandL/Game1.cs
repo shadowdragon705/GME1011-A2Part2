@@ -39,8 +39,8 @@ namespace A2_part_2_LelandL
             _playerSprite = Content.Load<Texture2D>("spr_amongUs");
             _font = Content.Load<SpriteFont>("font");
 
-            _bananaPeel = new BananaPeel(200, 200, 5, _peelSprite);
-            _player = new Player(0, 0, 5, _playerSprite, _bananaPeel);
+            _bananaPeel = new BananaPeel(200, 200, _peelSprite);
+            _player = new Player(0, 0, 3, _playerSprite, _bananaPeel);
 
             // TODO: use this.Content to load your game content here
         }
@@ -58,6 +58,7 @@ namespace A2_part_2_LelandL
             }
 
             _player.Update();
+            _bananaPeel.Update();
 
             // TODO: Add your update logic here
 
@@ -74,7 +75,7 @@ namespace A2_part_2_LelandL
             
             _spriteBatch.Begin();
 
-            _spriteBatch.DrawString(_font, "Speed: " + _player.GetSpeed() + ", Timer: " + _player.GetTimer(), new Vector2(100, 25), Color.Black);
+            _spriteBatch.DrawString(_font, "Speed: " + _player.GetSpeed() + ", Timer: " + _player.GetTimer() + ", Max Boost: " + _bananaPeel.getMaxBoost(), new Vector2(100, 25), Color.Black);
 
             _spriteBatch.End();
 

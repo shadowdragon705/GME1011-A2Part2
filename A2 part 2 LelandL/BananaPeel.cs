@@ -14,10 +14,10 @@ namespace A2_part_2_LelandL
 
         private float _peelX, _peelY;
         private Texture2D _peelTexture;
-        private int _speedBoost = 3;
+        private int _speedBoost = 3, _maxBoost = 9;
         private Color _boostColor = Color.Yellow;
 
-        public BananaPeel (float peelX, float peelY, int _speedBoost, Texture2D peelTexture)
+        public BananaPeel (float peelX, float peelY, Texture2D peelTexture)
         {
             _peelX = peelX;
             _peelY = peelY;
@@ -28,7 +28,22 @@ namespace A2_part_2_LelandL
         public float GetY() { return _peelY; }
         public int GetBoost() { return _speedBoost; }
 
+        public int getMaxBoost() { return _maxBoost; }
+
         public Color GetColor() { return _boostColor; }
+
+        public void Update()
+        {
+            Random random = new Random();
+
+            KeyboardState currentKeyboardState = Keyboard.GetState();
+
+            if (currentKeyboardState.IsKeyDown(Keys.B))
+            {
+                _maxBoost = random.Next(3, 21);
+            }
+
+        }
 
         public void Draw(SpriteBatch spriteBatch)
         {

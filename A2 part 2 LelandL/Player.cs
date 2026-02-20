@@ -67,7 +67,7 @@ namespace A2_part_2_LelandL
 
             }
 
-            if (_timer <= 0 && _playerSpeed > 5)
+            if (_timer <= 0 && _playerSpeed > 3)
             {
 
                 _playerColor = Color.White;
@@ -75,9 +75,9 @@ namespace A2_part_2_LelandL
 
             }
 
-            if (_playerSpeed > 15)
+            if (_playerSpeed > _peel.getMaxBoost())
             {
-                _playerSpeed = 15;
+                _playerSpeed = _peel.getMaxBoost();
             }
 
         }
@@ -101,7 +101,7 @@ namespace A2_part_2_LelandL
 
                 _speedBoost = speedBoost;
                 _timer = 300;
-
+                
             }
 
         }
